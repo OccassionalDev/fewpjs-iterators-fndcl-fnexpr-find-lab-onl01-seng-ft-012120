@@ -12,6 +12,6 @@ function superbowlWin(record) {
   }
   
   else {
-    
+    return undefined;
   }
 }
