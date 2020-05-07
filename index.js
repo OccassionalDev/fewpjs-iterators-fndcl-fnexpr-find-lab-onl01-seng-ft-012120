@@ -5,5 +5,5 @@ const record = [
 ];
 
 function superbowlWin(record) {
-  let result = record.find()
+  let result = record.find(record.result === "W")
 }
